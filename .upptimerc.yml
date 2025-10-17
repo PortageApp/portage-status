@@ -12,13 +12,15 @@ sites:
 status-website:
   cname: status.portage.so
   theme: dark
-  logoUrl: https://www.portage.so/logo.svg
-  name: Portage Status
+  logoUrl: https://cdn.prod.website-files.com/667f5e11c580564940534d04/68d766d9544f90351da6bac2_portage-web-logo-wide-light.png
+  name: Portage App Status
   introTitle: "Portage System Health"
-  introMessage: "All systems operational unless noted below."
+  introMessage: "Check the status of the Portage App and its dependencies."
   navbar:
-    - title: Portage App
+    - title: Website
       href: https://www.portage.so
+    - title: App
+      href: https://app.portage.so
   meta:
     description: "Live system status and uptime metrics for the Portage strategy platform."
     ogTitle: "Portage Status"
