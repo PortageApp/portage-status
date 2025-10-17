@@ -25,6 +25,6 @@ status-website:
     ogDescription: "Real-time uptime and incident history."
 
 workflowSchedule:
-  graphs: "0 * * * *"           # hourly
-  responseTime: "*/10 * * * *"  # every 10 min
-  uptime: "*/5 * * * *"         # every 5 min
+  graphs: "0 * * * *" # hourly
+  responseTime: "*/10 * * * *" # every 10 min
+  uptime: "*/5 * * * *" # every 5 min
