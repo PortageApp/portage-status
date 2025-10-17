@@ -1,7 +1,4 @@
 {
     "name": "portage-status",
-    "private": true,
-    "dependencies": {
-        "upptime": "^1.56.3"
-    }
+    "private": true
 }
