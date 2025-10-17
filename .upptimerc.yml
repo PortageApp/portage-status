@@ -1,0 +1,30 @@
+owner: portageapp
+repo: portage-status
+
+sites:
+  - name: Portage System Health
+    url: https://app.portage.so/api/health
+    headers:
+      - "x-healthcheck-secret: superlongrandomsecret"
+    expectedStatusCodes: [200]
+    maxResponseTime: 3000
+
+status-website:
+  cname: status.portage.so
+  theme: dark
+  logoUrl: https://www.portage.so/logo.svg
+  name: Portage Status
+  introTitle: "Portage System Health"
+  introMessage: "All systems operational unless noted below."
+  navbar:
+    - title: Portage App
+      href: https://www.portage.so
+  meta:
+    description: "Live system status and uptime metrics for the Portage strategy platform."
+    ogTitle: "Portage Status"
+    ogDescription: "Real-time uptime and incident history."
+
+workflowSchedule:
+  graphs: "0 * * * *"           # hourly
+  responseTime: "*/10 * * * *"  # every 10 min
+  uptime: "*/5 * * * *"         # every 5 min
