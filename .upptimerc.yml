@@ -12,14 +12,15 @@ sites:
 status-website:
   cname: status.portage.so
   theme: dark
-  logoUrl: https://cdn.prod.website-files.com/667f5e11c580564940534d04/68d766d9544f90351da6bac2_portage-web-logo-wide-light.png
-  name: Portage App Status
+  logoUrl: https://cdn.prod.website-files.com/667f5e11c580564940534d04/68ca93bc501af19640f1fc2c_android-chrome-256x256.png
+  name: Portage System Status
   introTitle: "Portage System Health"
   introMessage: "Check the status of the Portage App and its dependencies."
+  favicon: https://cdn.prod.website-files.com/667f5e11c580564940534d04/68ca92d42f690d0fcd93adbb_favicon-32x32.png
   navbar:
-    - title: Website
+    - title: Back to Website
       href: https://www.portage.so
-    - title: App
+    - title: Back to App
       href: https://app.portage.so
   meta:
     description: "Live system status and uptime metrics for the Portage strategy platform."
