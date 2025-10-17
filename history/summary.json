@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Portage System Health",
+    "url": "https://dev.portage.so/api/health",
+    "icon": "https://icons.duckduckgo.com/ip3/dev.portage.so.ico",
+    "slug": "portage-system-health",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 2052,
+    "timeDay": 2052,
+    "timeWeek": 2052,
+    "timeMonth": 2052,
+    "timeYear": 2052,
+    "dailyMinutesDown": {}
+  }
+]
