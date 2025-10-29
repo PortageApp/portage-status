@@ -1,7 +1,7 @@
 url: https://dev.portage.so/api/health
 status: down
-code: 502
-responseTime: 730
-lastUpdated: 2025-10-29T02:20:11.619Z
+code: 404
+responseTime: 729
+lastUpdated: 2025-10-29T03:02:49.381Z
 startTime: 2025-10-17T09:06:31.290Z
 generator: Upptime <https://github.com/upptime/upptime>
