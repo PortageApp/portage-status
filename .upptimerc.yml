@@ -3,7 +3,7 @@ repo: portage-status
 
 sites:
   - name: Portage System Health
-    url: https://dev.portage.so/api/health
+    url: https://app.portage.so/api/health
     headers:
       - "x-healthcheck-secret: superlongrandomsecret"
     expectedStatusCodes: [200]
