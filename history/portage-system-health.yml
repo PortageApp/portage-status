@@ -1,7 +1,7 @@
 url: https://app.portage.so/api/health
-status: degraded
+status: down
 code: 500
-responseTime: 3784
-lastUpdated: 2025-11-01T23:05:16.103Z
+responseTime: 900
+lastUpdated: 2025-11-01T23:06:34.734Z
 startTime: 2025-10-17T09:06:31.290Z
 generator: Upptime <https://github.com/upptime/upptime>
