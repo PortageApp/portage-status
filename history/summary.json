@@ -4,19 +4,19 @@
     "url": "https://app.portage.so/api/health",
     "icon": "https://icons.duckduckgo.com/ip3/app.portage.so.ico",
     "slug": "portage-system-health",
-    "status": "degraded",
-    "uptime": "91.97%",
-    "uptimeDay": "99.53%",
-    "uptimeWeek": "99.20%",
-    "uptimeMonth": "99.63%",
-    "uptimeYear": "91.97%",
+    "status": "up",
+    "uptime": "92.13%",
+    "uptimeDay": "98.97%",
+    "uptimeWeek": "99.12%",
+    "uptimeMonth": "99.61%",
+    "uptimeYear": "92.13%",
     "time": 934,
-    "timeDay": 1128,
-    "timeWeek": 913,
+    "timeDay": 1136,
+    "timeWeek": 914,
     "timeMonth": 975,
     "timeYear": 934,
     "dailyMinutesDown": {
-      "2026-03-28": 6,
+      "2026-03-28": 14,
       "2026-03-26": 69,
       "2026-03-25": 5,
       "2026-03-18": 31,
@@ -71,8 +71,7 @@
       "2025-10-21": 1163,
       "2025-10-20": 1156,
       "2025-10-19": 649,
-      "2025-10-18": 462,
-      "2025-10-17": 394
+      "2025-10-18": 462
     }
   }
 ]
