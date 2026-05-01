@@ -6,17 +6,17 @@
     "slug": "portage-system-health",
     "status": "degraded",
     "uptime": "98.00%",
-    "uptimeDay": "97.07%",
-    "uptimeWeek": "98.29%",
-    "uptimeMonth": "89.21%",
+    "uptimeDay": "96.39%",
+    "uptimeWeek": "98.19%",
+    "uptimeMonth": "89.19%",
     "uptimeYear": "98.00%",
     "time": 951,
-    "timeDay": 1303,
-    "timeWeek": 1016,
-    "timeMonth": 1121,
+    "timeDay": 1427,
+    "timeWeek": 1036,
+    "timeMonth": 1125,
     "timeYear": 951,
     "dailyMinutesDown": {
-      "2026-05-01": 42,
+      "2026-05-01": 52,
       "2026-04-29": 47,
       "2026-04-27": 83,
       "2026-04-24": 2,
@@ -70,7 +70,7 @@
       "2025-11-11": 11,
       "2025-11-10": 1,
       "2025-11-06": 45,
-      "2025-11-05": 17
+      "2025-11-05": 12
     }
   }
 ]
